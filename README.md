@@ -1,6 +1,6 @@
 # Learning-record
 
-#学习代码#
+# jAVA学习代码 #
 
 1、BianTaiQingWaTiao.java：变态青蛙跳台阶
 
